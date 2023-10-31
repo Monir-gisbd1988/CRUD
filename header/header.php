@@ -7,8 +7,7 @@ session_start();
 define("BASE_URL", "http://localhost/CRUD");
 
 // Define the file path as a constant
-define("DB_FILE_PATH",  $_SERVER['DOCUMENT_ROOT'] . "/database/db.json");
-// define("DB_FILE_PATH",  "/database/db.json");
+define("DB_FILE_PATH",  $_SERVER['DOCUMENT_ROOT'] . "/CRUD/database/db.json");
 
 ?>
 
