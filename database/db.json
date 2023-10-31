@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "role": "admin",
+        "password": "$2y$10$DgdprIkStCc0IwmxPz2qyuK7VwBvdWAC75Esime3AJ0eKo7Jf1L4y"
+    },
+    {
+        "id": 2,
+        "username": "user",
+        "email": "user@gmail.com",
+        "role": "user",
+        "password": "$2y$10$gsb94iz...R4sAlPyYSgDOj\/iNZPAxZyon3LlA6a6TLr8svzo0Mba"
+    },
+    {
+        "id": 3,
+        "username": "manager",
+        "email": "manager@gmail.com",
+        "role": "manager",
+        "password": "$2y$10$S7vDUDqafwwC\/mscyVPfgeBnwYTpWvt2SZGznfjE18LGStdMo6gWm"
+    }
+]
